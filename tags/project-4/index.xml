@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project 4 on Amul Vaibhav</title>
+    <link>https://github.com/Vaibhav2204/portfolio_3/tags/project-4/</link>
+    <description>Recent content in Project 4 on Amul Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 30 Apr 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="https://github.com/Vaibhav2204/portfolio_3/tags/project-4/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project I: WEB Scrapping</title>
+      <link>https://github.com/Vaibhav2204/portfolio_3/post/project-1/</link>
+      <pubDate>Sun, 30 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>https://github.com/Vaibhav2204/portfolio_3/post/project-1/</guid>
+      <description>Scraped Movies/Series from the TMBD website using Requests&amp;amp; BeautifulSoup4 Built Functions such as get_topic_page(), Ratings(),movie_url() to scrape movies name, Ratings, URL of the website, Date of Release etc. Stored data consisting of 100+ rows x 5 columns and into Movies.csv Link to GitHub Repository</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project 1 on Amul Vaibhav</title>
+    <link>https://github.com/Vaibhav2204/portfolio_3/tags/project-1/</link>
+    <description>Recent content in Project 1 on Amul Vaibhav</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Apr 2017 11:14:48 -0400</lastBuildDate>
+    <atom:link href="https://github.com/Vaibhav2204/portfolio_3/tags/project-1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project IV: Machine Learning</title>
+      <link>https://github.com/Vaibhav2204/portfolio_3/post/project-4/</link>
+      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
+      <guid>https://github.com/Vaibhav2204/portfolio_3/post/project-4/</guid>
+      <description>Cleaned &amp;amp; analyzed retail store dataset with 420,000+ rows &amp;amp;16 columns to predict weekly sales. Trained linear models, random forests, and gradient boosted trees using scikit-learn &amp;amp;XGBoost Achieved a weighted mean absolute error of $2,487, landing in the top 25% on Kaggle. Link to GitHub Repository</description>
+    </item>
+  </channel>
+</rss>
